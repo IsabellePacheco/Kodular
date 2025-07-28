@@ -4,7 +4,7 @@
 
 ## Ex1-app_calculadora
 <img width="392" height="680" alt="image" src="https://github.com/user-attachments/assets/f72aa5b7-3204-4295-9968-6c5b36f5e776" />
-_________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________
 
 ## Ex2-app_conversoes
 <img width="419" height="725" alt="image" src="https://github.com/user-attachments/assets/36b34e9b-c84f-4d21-9f6d-2903bd603636" />
